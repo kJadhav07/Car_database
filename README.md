@@ -35,7 +35,7 @@ This project is created for learning and practicing Python programming and data 
 ```text
 Car_database/
 │
-├── assinment_car
+├── assinment_car.py
 └── README.md
 
 ## 🚀 How to Run the Project
